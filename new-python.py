@@ -71,5 +71,4 @@ txt = "The best things in life are free!"
 if "free" in txt:
   print("No, 'free' is present.")
 
-  txt = "The best things in life are free!"
-print("expensive" not in txt)
+  
