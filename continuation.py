@@ -11,6 +11,11 @@ print(b[2:5])
 b = "Hello, World!"
 print(b[:5])
 
+if x>0;
+  print("x is positive")
+else:
+  print("x is negative or zero")
+
 b = "Hello, World!"
 print(b[3:])
 
